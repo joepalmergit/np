@@ -1,2 +1,2 @@
 # np
-Random [n]ame [picker]
+Random [n]ame [p]icker
